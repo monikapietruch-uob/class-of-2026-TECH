@@ -1,2 +1,3 @@
-# class-of-2026-TECH
-Foundation Tech group - 2026/27
+# Class of 2026 – Our Year in Pictures
+
+(We write the rest together in Session 2.)

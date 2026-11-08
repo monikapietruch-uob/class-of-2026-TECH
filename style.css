@@ -1,0 +1,26 @@
+/* Class of 2026 – the shared wardrobe. One file dresses every page. */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+  color: #1f2328;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+h1 {
+  color: #c8102e;
+}
+
+nav a {
+  margin-right: 16px;
+  font-weight: bold;
+}
+
+/* Added live in the session:
+   img { width: 100%; border-radius: 12px; }
+   .gallery { display: flex; gap: 16px; flex-wrap: wrap; }
+   .gallery figure { width: 280px; margin: 0; }
+   After the Issue: figcaption { color: #555555; font-size: 16px; }
+*/
